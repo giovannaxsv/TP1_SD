@@ -1,0 +1,4 @@
+bin/
+resultados/ocupacao/
+resultados/teste_*
+__pycache__/
